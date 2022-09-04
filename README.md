@@ -1,7 +1,6 @@
-# thelordofthebackends
-One server to serve them all
+# General staging back-end
 
-Brincadeiras à parte, a ideia do projeto é um servidor com respostas prontas para serem consumidas por front-ends em fase de teste.
+A ideia do projeto é um servidor com respostas prontas para serem consumidas por front-ends em fase de teste.
 
 ## Como instalar?
 - Clone o repo.
